@@ -54,6 +54,9 @@ public class krypkasino extends JFrame {
 	 * Create the frame.
 	 */
 	public krypkasino() {
+
+	//I det här programmet 
+
 		setTitle("KrypKasino");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);

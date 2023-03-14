@@ -1,0 +1,2 @@
+Först välj mellan största tal 10 eller största tal 20. Datorn väljer sen ett slumpat tal mellan 1 och talet du valde. Efter du gissar på ett tal säger datorn till om du gissa för högt eller för lågt.
+När du gissar rätt vinner du och programmet berättar hur många försök det tog med en counter. 

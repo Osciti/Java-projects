@@ -1,0 +1,3 @@
+9 ruttor deklareras sen spårar programmet din mus och ser när den trycker på någon rutta, "X" spelaren börjar, sen läser programmet vilken runda det är för att avse om man placerar "X" eller "O".
+Om 3 ruttor gränsar varandra rakt vinner spelaren med den symbolen och programmet ritar en linje igenom de tre symbolerna. Sen om du trycker på omstart sätts alla variabler till sitt första värde och allt som 
+programmet rita försvinner.

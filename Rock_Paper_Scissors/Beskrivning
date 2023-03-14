@@ -1,0 +1,2 @@
+Spela knappen aktiverar alla andra knappar. Datorn väljer sten, sax eller påse genom nummren 1, 2 och 3. Sen väljer du sten, sax eller påse som programmet läser som nummren 1, 2 och 3.
+Sen räknar programmet om spelaren van, om den van eller om det blir oavgjort. Sen skriver den ner resultatet i en text field och du kan spela igen direkt. 

@@ -22,7 +22,7 @@ import java.awt.event.MouseAdapter;
 
 public class Bullseye extends JFrame {
 
-    //Klasserna Hit och sikte använder vi oss för att kunna följa musen och skuta
+    
 
 	int radie;
 	Board mål;
