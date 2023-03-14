@@ -460,12 +460,12 @@ public class Luffarschack extends JFrame {
 				}
 				if (w3 == 1 & w5 == 1 & w7 == 1) {
 					ly = 380; ly2 = 70;
-					lx = 357; lx2 = 47; 
+					lx = 47; lx2 = 357; 
 					win = 1;
 				}
 				else if (w3 == 0 & w5 == 0 & w7 == 0) {
 					ly = 380; ly2 = 70;
-					lx = 357; lx2 = 47;
+					lx = 47; lx2 = 357;
 					win = 2;
 				}
 			}
