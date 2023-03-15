@@ -1,4 +1,4 @@
-När du trycker på nytt spel öppnas gräns täxtruttan där skriver du vad man spelar till. Sen läser min in gränsen med gräns knappen.
-Sen anger man hur mycket poäng en person fick på respektive sidas lilla rutta. Sedan trycker man på ange knappen som tar nummren från ruttorna och 
-sparar värdena och sen skriver programmet upp de i respektive sidas stora rutta. Om man bara anger en sida kalkylerar programmet den andras värde efter krypkasinos regler.
-När nån till slut när når gränsen avslutas spelet, någon blir vinnaren (eller oavgjort om båda bäda går över gränsen), alla knappar avaktiveras och nytt spel knappen aktiveras igen.
+När du trycker på "nytt spel" öppnas textrutan "gräns", där skriver man vilket nummer man spelar till. Sedan läser man in gränsen med gränsknappen.
+Därefter anger man hur många poäng en person fick på respektive sidas lilla ruta. Sedan trycker man på ange-knappen som tar nummren från rutorna och 
+sparar värdena. Sedan skriver programmet upp dem i respektive sidas stora ruta. Om man bara anger en sida kalkylerar programmet den andras värde efter krypkasinos regler.
+När någon till slut när når gränsen avslutas spelet, någon blir vinnaren (eller oavgjort om båda bäda går över gränsen), alla knappar avaktiveras och "nytt spel" knappen aktiveras igen.

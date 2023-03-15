@@ -1,5 +1,5 @@
-Klassen "Board" tar värdet du anger i text ruttan sen använder den det för att rita ett mål
-Efter det använder klassen "Sikte" sig av din mus position och ritar ett sikte
-När du trycker med musen ritar "Hit" ett kors sålänge du har pillar kvar.
-Du börjar med 5 pillar och varje gång du skjuter en minksar talet med ett
-Ange en ny radie för att få tillbaka pillarna.
+Klassen "Board" tar värdet du anger i textrutan, sedan använder den det för att rita ett mål.
+Efter det använder klassen "Sikte" sig av din mus position och ritar ett sikte.
+När du trycker med musen ritar "Hit" ett kors så länge du har pilar kvar.
+Du börjar med fem pilar och varje gång du skjuter en pil minskar talet med ett.
+Ange en ny radie för att få tillbaka pilarna.
